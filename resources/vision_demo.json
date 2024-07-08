@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "solid-garden-428021-h7",
+  "private_key_id": "c509785ff486ce8774011f9a0d01cc08123606a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzvbwItjiIdkud\nueoepOjfg4mPkS6/jYtKUTwWG88dCWAsUDlKxbQX4XXlAv0K3ZsoBhMs68GYlgTR\nrAsp69UkB3jCJQcEMFvpsHDuPpPRoZUgFmsNiFOG1cgL0aIFZzC/qVxFxf6oSTdF\nkHVW3JFZaw9G4aLE70dDzVWZf3oycOc7SvthxwQLXc3+9p1txK3/qxNu3Dh3o1Pj\nb542mCcoQPMqObzfqwPuqGVhSA62PgpauHaPS+lEzgE9cN4RWLovrOcqCg3qAtp1\nCFIf17Zc/ZmtMcAO0vNx1QFRK0fwTaUch3lSkKeZ3JfKizhqfvf4++O6fr3S0bjY\nWGNii+HdAgMBAAECggEAGAI2BavhbUjv3MeioClC+egmDclEx01u16R2NDXOuoAw\nGns0y+oQnkf9aXO2vSbQvM3i7dMn7uvLBP7IFvdrZv6ggL5Va5fSDysESq6NLCk7\nNCgKcKpPDemsaPe9fp9EAbXrn15NH8l32pDrO4kG2TzVs5AcH9YeXM4mqvQ+LFJy\npMfxQ9e1KfhRgcytqGM/O1pNs0kJRVZlGlYQhZqr2YtZBEEz3PbWcS/btm3tY9QZ\nZAKvWd8GvC4+W2gClPDvITjDa+fNmX/DRCORJ3T3ytW081uIbuozy6Ur2I8gUCAD\nb3giAqeIdTUl+9gJLQhdy9AxmZ4c51GTPzGif2QuQQKBgQD0dO4umJ4VP3JT8wFT\nhb4fI/eynkUk+GYHZrZ+aedb0/CAUv/dvt7n8ZMMSG4Uv8EegeUaODC7PihVNt2P\nVcoCo5IBvw2oHPhf5kcBtVd8zNxbKpSDL/TPm5Aei4c2qOGBfbRXu5e05eWd0XKE\n5Nu1npjkAt2wBd2dSh+R9uxl1QKBgQC8OoBq4kf10xIJC5oQYcUuGi3SAA98WrHL\nCGpu8WLJr3YZIeiDEFeApRv9Q2HoIZu1ZFDzv43MMxGuyOs29Xls6aE5JwvLWxE9\nrMsaKwnPPQigkA1dUW0fC6PTdMhc3ea97PoKZ9hHi/iFUeFIok9dIpcC8Iu/y3oz\n+xmYP4Dn6QKBgAlxyxH5y4G+pcggh1iWvjWtyhAYlUtMXYTDryFLLikaExyiGEiU\n6z/C0Y+T7MzYa7mmAxf0O83AJQbFy+GRyvA3KZjvrLNmCyKJXwzt2Kd1sr3C82Hu\nJGMw+2xyr5KpC61ZEfKhyMawayKhyO7heKuXqQiGI9J9J4bAKmAVTiTRAoGBAKgl\nlqxkwiXuzRC5hYKW5J9/kWkk1rCfEG6wcOv0xOwoy1Y+PUg/4/svA+bmN+M3irKr\nD8n/V7uP7371S3JILZXGy1iT8exSyP8QiksxIU05V6ifpuCzKcjvDAWNMKQNMuB9\nfwymocWgW301nQvWuxEXIlHk8uJ98gfXi5C/QfdpAoGBAJIjHeDbeJjQEJ9/5czM\nwKXOuQp+dmJL8jnD2cOuN3wr7QyBARHQotlVvqa3BgjgI36rdYlCjyiy/b8f+vDU\nPSAhlS7GX/XOUn16NrMD2vnfNJj8E1WGaIw7USaj/3UEBr55gkXEeJgjO4IHhofl\n8F0c5P/mhjPVcfrsiMLBclE6\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-demo@solid-garden-428021-h7.iam.gserviceaccount.com",
+  "client_id": "104726639585556041884",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-demo%40solid-garden-428021-h7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "aesthetic-hub-428016-n5",
+  "private_key_id": "997862ba3d96e76c87252c0bb18745861a2d9b7b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCr9ynLOB6vznku\nL1hfnOb368nfVhrGbtmVN16yDfME2dppGf/KUgRwGBoDm/4ZR9iGLnvqyfUBB4dS\nwyOXyqEzpbchlTlk5Oc4yC6fCh3DsDHfr9iHT6O5HWyq0JE1RUq9ZKJ6QeQPfju7\n4/uqtIMukFLeidr21zGkWKX3xr+zXYsnlRb9UUOv5Fdd5rtlqDxUFr8TtsrLUn1r\np7P1Fe//efiOX1Ywb6twsplwCCvKvwZtgJXjPywcdRyQEkRL9p3HBL03zUqw69J8\nXy8kRao+6ktMOyzfZzUNqGL73DG8O+kqYcyk6weF0dObg5RceDVrm91486ruMdAN\niMunHuJ5AgMBAAECggEAAksO8Hhfw/yDvHqu2dzCOyMJ3S1Tn2FNJZkB+lH6ADU1\ntsPJ8WUzs3LGCAj9jYTaGmH5m4/HyvsSRVq37KQfKOZOrjpqwN5vk4ZR3tbE8leo\nNpr5W+As2mdazCu9v/rb7HFW3FZo57Vi4qMyt2iyvIoTdm3BF099btTGAJ5sVVE5\nezJVxDgYoHoo8faHzr/WNR8zIjQOkeR/jBF9fuewL7v4cIsYBTmt/fRFxqpTU1zh\na4Ihkhx2wS9fP+oXcn8m1lvwfdOAWD0/2iY/19+Ug2i52IDuVQNTwMeLtHOLFSQQ\nX58zwV9HlraXkSIFLBecz6ZZuuuyJa5456g9kK5RoQKBgQDVb/rYk9xSxj8F6wFZ\nyrdJMoEd398uYC3BHIfDYEFWmq4qYIydSfo5wQH2SYeD5tikFOFoI4OA/egC6xOb\nPMwrzttxhvqWS0Dw5DZcNFjMyUtqRelHbmu7KVC3HN9nYG0KkBrN+7cIgKuN6sIu\nKinP3W137fHWF2VudMtPLRYWiQKBgQDOQgh7Q/V90QALY7rQQ0Vh/D/Uugwy0ekC\n+M3YEKsYMYhWltOCVnU0ZZsCv9Um7zC36YfLgT4StjvGTBhgJ3bM3DVoaEDla6jV\nUj0CLdPh9X/QKIaGJ7+3FOUR4d+PvBfGGpHuXgdhfP1qUCr7Vabfgp88hw9JNZUg\nE2crgatwcQKBgAMJCKQz1hpHP3YyFV7Vhy2/Th7CpEXgkEYCxdt9bvBwWrG3lchW\n2PwhRoneGdNCYSpUMbBtcN1Qvw/rj+fRQYYN9wjyRnYEs/O5Cxzckba31h64x8yA\nQX/z4nX4LyUlNefEjN0JC11PlyD5ibFmYBnYqEngVGQbCRI9DvcdSQchAoGAQZTR\naZA0MGsR3o05Sxr4pq00BomZc1c3BZDisn6qSCkHtrCCVAD1h1F/NiKUvap0DSYd\n3WEcwYpb+zMa1Qf3SDAEc0wixk+zAREDAPxdUI1ktGUOUP22gZoNM+Bj2yntTToJ\niIcxRZgeY31WDVAwnQTFaNNw0tBMuEQzG6xBPKECgYAmLg664+nk9bSPYV1IwLBL\n7agszWKqX3Jr2Djn48mluNSYW8xTgwsMeIkhs/SjjCGB3jo7NtnlzYJMYPWGgeMj\n6MsGy67RwnXa+lr2GLZ/JctoYRsobtYlqxD0maRewgKiX3e7gkmplqn0AkvGPwjh\nra4exYE1AvHoxi6+DEfp2w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-demo@aesthetic-hub-428016-n5.iam.gserviceaccount.com",
+  "client_id": "106057552806994649900",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-demo%40aesthetic-hub-428016-n5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
