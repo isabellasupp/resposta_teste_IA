@@ -42,6 +42,10 @@ O script Python é utilizado para processar arquivos de áudio e PDF, e interagi
 ### Melhorias do projeto
 Subir para uma máquina virtual e gerar um link que acesse em qualquer navegador 
 
+### Para rodar o front e o back abra o cmd da pastinha do projeto e execute os seguintes comandos
+node index.js (back)
+cd front\todoapp (front)
+
 ### Possíveis perguntas do projeto
 - "Quais são os elementos principais de uma página HTML5?";
 - "Quais tags compõem a estrutura básica de uma página HTML5?";
