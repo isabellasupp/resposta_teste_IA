@@ -1,1 +1,1 @@
-# resposta_teste_IA +A Educação
+#+A Educação
