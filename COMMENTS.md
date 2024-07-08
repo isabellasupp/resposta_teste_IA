@@ -58,7 +58,7 @@ Subir para uma máquina virtual e gerar um link que acesse em qualquer navegador
 - "Como utilizar a tag <section> em uma página HTML5?";
 - "Para que serve a tag <article> em HTML5?";
 - "Como utilizar a tag <article> em uma página HTML5?";
-- "Qual a função da tag <h2> em HTML5?";
+- "Qual a função da tag < h2 > em HTML5?";
 - "Como utilizar a tag <h2> em uma página HTML5?";
 - "Como usar a tag <pre> em HTML5?";
 - "Para que serve a tag <pre> em HTML5?";
