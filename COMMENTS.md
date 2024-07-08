@@ -43,36 +43,35 @@ O script Python é utilizado para processar arquivos de áudio e PDF, e interagi
 Subir para uma máquina virtual e gerar um link que acesse em qualquer navegador 
 
 ### Possíveis perguntas do projeto
-"Quais são os elementos principais de uma página HTML5?"
-"Quais tags compõem a estrutura básica de uma página HTML5?"
-"Como é feita a formatação de texto em HTML5?"
-"Quais tags são recomendadas para formatação de texto em HTML5?"
-"Como criar listas em uma página HTML5?"
-"Quais tags são usadas para criar listas em HTML5?"
-"Como criar tabelas em HTML5?"
-"Quais são as tags principais para criar tabelas em HTML5?"
-"Para que serve a instrução <!DOCTYPE html> em uma página HTML5?"
-"Qual a função da tag <!DOCTYPE html> em HTML5?"
-"Para que serve a tag <nav> em HTML5?"
-"Como utilizar a tag <nav> em uma página HTML5?"
-"Qual a função da tag <section> em HTML5?"
-"Como utilizar a tag <section> em uma página HTML5?"
-"Para que serve a tag <article> em HTML5?"
-"Como utilizar a tag <article> em uma página HTML5?"
-"Qual a função da tag <h2> em HTML5?"
-"Como utilizar a tag <h2> em uma página HTML5?"
-"Como usar a tag <pre> em HTML5?"
-"Para que serve a tag <pre> em HTML5?"
-"Como criar âncoras em HTML5?"
-"Qual a função das âncoras em HTML5?"
-"Para que serve a tag <title> em HTML5?"
-"Qual a função da tag <title> em uma página HTML5?"
-"Para que serve a tag <header> em HTML5?"
-"Qual a função do header em uma página HTML5?"
-"O que colocar no <header> de uma página HTML5?"
-"Quais informações devem estar no <header> em HTML5?"
-"Para que serve a tag <footer> em HTML5?"
-"Qual a função do footer em uma página HTML5?"
-"O que colocar no <footer> de uma página HTML5?"
+"Quais são os elementos principais de uma página HTML5?";
+"Quais tags compõem a estrutura básica de uma página HTML5?";
+"Como é feita a formatação de texto em HTML5?";
+"Quais tags são recomendadas para formatação de texto em HTML5?";
+"Como criar listas em uma página HTML5?";
+"Quais tags são usadas para criar listas em HTML5?";
+"Como criar tabelas em HTML5?";
+"Quais são as tags principais para criar tabelas em HTML5?";
+"Para que serve a instrução <!DOCTYPE html> em uma página HTML5?";
+"Para que serve a tag <nav> em HTML5?";
+"Como utilizar a tag <nav> em uma página HTML5?";
+"Qual a função da tag <section> em HTML5?";
+"Como utilizar a tag <section> em uma página HTML5?";
+"Para que serve a tag <article> em HTML5?";
+"Como utilizar a tag <article> em uma página HTML5?";
+"Qual a função da tag <h2> em HTML5?";
+"Como utilizar a tag <h2> em uma página HTML5?";
+"Como usar a tag <pre> em HTML5?";
+"Para que serve a tag <pre> em HTML5?";
+"Como criar âncoras em HTML5?";
+"Qual a função das âncoras em HTML5?";
+"Para que serve a tag <title> em HTML5?";
+"Qual a função da tag <title> em uma página HTML5?";
+"Para que serve a tag <header> em HTML5?";
+"Qual a função do header em uma página HTML5?";
+"O que colocar no <header> de uma página HTML5?";
+"Quais informações devem estar no <header> em HTML5?";
+"Para que serve a tag <footer> em HTML5?";
+"Qual a função do footer em uma página HTML5?";
+"O que colocar no <footer> de uma página HTML5?";
 "Quais informações devem estar no <footer> em HTML5?"
 
