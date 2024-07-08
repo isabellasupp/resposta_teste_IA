@@ -38,3 +38,6 @@ O MongoDB é usado como banco de dados para armazenar dados persistentes, como p
 
 ### Script Python
 O script Python é utilizado para processar arquivos de áudio e PDF, e interagir com as APIs do Google Cloud para transcrição de áudio e análise de imagens. Ele também se comunica com o MongoDB para armazenar ou recuperar dados.
+
+### Melhorias do projeto
+Subir para uma máquina virtual e gerar um link que acesse em qualquer navegador 
