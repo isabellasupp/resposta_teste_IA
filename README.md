@@ -1,1 +1,1 @@
-#+A Educação
+# +A Educação
