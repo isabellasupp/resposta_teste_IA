@@ -1,5 +1,8 @@
 # Comentários sobre as Bibliotecas e Arquitetura do Projeto
 
+## Testando o projeto
+https://www.youtube.com/watch?v=DNQP9uZToHs
+
 ## Frontend (React)
 - **React**: Biblioteca para construção de interfaces de usuário.
 - **Axios**: Cliente HTTP baseado em Promises para fazer requisições.
